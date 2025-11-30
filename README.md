@@ -15,4 +15,4 @@ Comfortable con overlap Europa (4–6h diarias con CET)
 | [Credit Rules Engine](https://github.com/srgonzale/credit_rule_engine)   | Python  | Credit decision engine |
 
 🔗 LinkedIn: https://www.linkedin.com/in/sergio-rodriguez-gonzalez-0b278863  
-📩 srgonzale@proton.me | +593 992 87 95 06 (WhatsApp)
+📩 srgonzale@proton.me
